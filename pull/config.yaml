@@ -1,0 +1,7 @@
+# Countries for product-footprints.py to pull from the EC3 API
+# Edit this list, then re-run: python product-footprints.py
+# Add US states individually (e.g. US-CA) or use --country US to expand all 50 states
+# ISO 3166-1 alpha-2: https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+# Frontend: https://model.earth/profile/item/#layout=product
+
+countries: IN, US, DE, GB, FR, CA, AU, BR, NL, MX
